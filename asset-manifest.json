@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/my-app/static/css/main.5755d75f.css",
-    "main.js": "/my-app/static/js/main.579558e1.js",
-    "static/js/787.28cb0dcd.chunk.js": "/my-app/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/my-app/index.html",
-    "main.5755d75f.css.map": "/my-app/static/css/main.5755d75f.css.map",
-    "main.579558e1.js.map": "/my-app/static/js/main.579558e1.js.map",
-    "787.28cb0dcd.chunk.js.map": "/my-app/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/online_Compiler_using_ReactJS/static/css/main.5755d75f.css",
+    "main.js": "/online_Compiler_using_ReactJS/static/js/main.72e5c1de.js",
+    "static/js/787.28cb0dcd.chunk.js": "/online_Compiler_using_ReactJS/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/online_Compiler_using_ReactJS/index.html",
+    "main.5755d75f.css.map": "/online_Compiler_using_ReactJS/static/css/main.5755d75f.css.map",
+    "main.72e5c1de.js.map": "/online_Compiler_using_ReactJS/static/js/main.72e5c1de.js.map",
+    "787.28cb0dcd.chunk.js.map": "/online_Compiler_using_ReactJS/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5755d75f.css",
-    "static/js/main.579558e1.js"
+    "static/js/main.72e5c1de.js"
   ]
 }
